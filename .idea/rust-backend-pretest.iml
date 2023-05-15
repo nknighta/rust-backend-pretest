@@ -3,8 +3,10 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/models/core/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/models/test1/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/ZeppelinRemoteNotebooks" />
+      <excludeFolder url="file://$MODULE_DIR$/models/core/target" />
       <excludeFolder url="file://$MODULE_DIR$/models/test1/target" />
     </content>
     <orderEntry type="inheritedJdk" />

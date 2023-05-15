@@ -19,7 +19,7 @@ async fn actix_main() -> std::io::Result<()> {
 }
 
 pub fn main () {
-    println!("Hello from runner {}" ,port().to_string());
+    println!("XC backend version 0.5.5_beta1\n Running on {}" ,port().to_string());
     actix_main();
 }
 /*

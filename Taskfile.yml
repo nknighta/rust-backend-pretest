@@ -1,0 +1,12 @@
+version: '3'
+
+vars:
+  GREETING: build now.
+
+tasks:
+  run:
+    cmds:
+      - echo "{{.GREETING}}"
+      - cd ./models/core
+      - cargo run
+    silent: true
