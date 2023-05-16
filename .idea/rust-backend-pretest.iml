@@ -5,9 +5,16 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/models/core/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/models/test1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/models/db/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/core/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/db/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/ZeppelinRemoteNotebooks" />
       <excludeFolder url="file://$MODULE_DIR$/models/core/target" />
       <excludeFolder url="file://$MODULE_DIR$/models/test1/target" />
+      <excludeFolder url="file://$MODULE_DIR$/models/db/target" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/dataSources" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/core/target" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/db/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
